@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				122,
+				270
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				122,
+				270
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				122,
+				270
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				122,
+				270
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				122,
+				270
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/james/splendid somber",
+	"position": [
+		-398,
+		191
+	],
+	"healthicon": "james",
+	"flip_x": false,
+	"healthbar_colors": [
+		174,
+		41,
+		41
+	],
+	"camera_position": [
+		-700,
+		-1100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
